@@ -21,6 +21,8 @@ class Author{ //nothing
 	}
 	public void StringToString(){
 		System.out.println(firstName+" "+lastName);
+System.out.println(nitish);
+
 	}
 }
 
